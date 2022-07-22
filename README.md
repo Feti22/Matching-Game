@@ -1,5 +1,5 @@
 # Memory-Match-Game
-This project is an amazing game built in JavaScript.
+This project is an amazing game built with JavaScript.
 
 ## Website: 
 https://memory-match-game.netlify.app/ 
